@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "ReelStats",
+  "version": "1.0",
+  "description": "Analyze your Instagram Reels performance beautifully.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": [
+    "https://www.instagram.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "ReelStats"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
