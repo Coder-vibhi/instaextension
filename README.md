@@ -1,46 +1,115 @@
-# ReelStat
+<div align="center">
 
-A Chrome Extension to calculate the **Average Instagram Reel Views** based on organic performance.
+# 🚀 ReelStat
 
----
+### **Instagram Average Reel Views Calculator**
 
-## How it Works
+<img src="assets/banner.png" width="100%">
 
-1. Open any **Instagram public profile**.
-2. Click on the **ReelStat** extension.
-3. Click **Start Scan**.
-4. The extension scans the **latest 25 reels**.
-5. It automatically:
-   - Ignores the **latest 5 reels**
-   - Ignores the **last 5 reels**
-   - Skips **Promotional/Sponsored reels**
-6. Finally, it calculates and displays the **Average Reel Views**.
+</div>
 
 ---
 
-## Installation
+# ✨ How It Works
 
-1. Download this repository from GitHub.
-2. Extract the ZIP file.
-3. Open **Google Chrome**.
-4. Click the **3 dots (⋮)** in the top-right corner.
-5. Go to **Extensions → Manage Extensions**.
-6. Turn **Developer Mode** ON.
-7. Click **Load unpacked**.
-8. Select the extracted **ReelStat** folder.
+1️⃣ Open any **Instagram Public Profile**
 
-Done! 🎉
+2️⃣ Click on the **ReelStat** Extension
+
+3️⃣ Press **Start Scan**
+
+4️⃣ ReelStat scans the **Latest 25 Reels**
+
+Then it automatically:
+
+- ❌ Skips the **Latest 5 Reels**
+- ❌ Skips the **Last 5 Reels**
+- ❌ Ignores **Promotional / Sponsored Reels**
+
+Finally, it calculates and displays the
+
+# 📊 **Average Reel Views**
 
 ---
 
-## Demo
+# 📥 Installation
 
-![Demo](assets/demo.gif)
+### 1. Download the project from **GitHub**
+
+⬇️ Download ZIP
+
+or
+
+```bash
+git clone https://github.com/yourusername/reelstat.git
+```
 
 ---
 
-## Screenshot
+### 2. Extract the ZIP file
 
-![Home](assets/home.png)
+📂 Extract the downloaded folder.
 
-![Result](assets/result.png)
+---
+
+### 3. Open Google Chrome
+
+Click
+
+**⋮ (Three Dots)**
+
+↓
+
+**Extensions**
+
+↓
+
+**Manage Extensions**
+
+---
+
+### 4. Enable Developer Mode
+
+Turn **Developer Mode** **ON**
+
+(Top Right Corner)
+
+---
+
+### 5. Load the Extension
+
+Click
+
+### 📦 **Load unpacked**
+
+Then select the extracted **ReelStat** folder.
+
+---
+
+# 🎬 Demo
+
+<p align="center">
+<img src="assets/demo.gif" width="850">
+</p>
+
+---
+
+# 📸 Screenshots
+
+<p align="center">
+<img src="assets/home.png" width="350">
+
+<br><br>
+
+<img src="assets/result.png" width="350">
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, consider giving it a Star.
+
+Made with ❤️
+
+</div>
