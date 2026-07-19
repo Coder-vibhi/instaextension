@@ -8,6 +8,16 @@
 
 </div>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Chrome-Extension-blue?style=for-the-badge&logo=googlechrome">
+
+<img src="https://img.shields.io/badge/Instagram-Reels-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+
+</p>
+
 ---
 
 # ✨ How It Works
